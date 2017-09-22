@@ -13,3 +13,6 @@
 8. Adaboost 算法
 9. 神经网络
 10. 马尔可夫
+
+### 2017-09-23 北京
+[【纯干货】机器学习十大算法](http://dy.163.com/v2/article/detail/CQ15EL4I0511E4EQ.html)
