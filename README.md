@@ -1,6 +1,6 @@
 # AI 相关的学习笔记
 
-### 2017-09-22
+### 2017-09-22 北京
 [轻松看懂机器学习十大常用算法](https://www.leiphone.com/news/201707/nL57wR7ZtbfsRgDR.html)
 
 1. 决策树
